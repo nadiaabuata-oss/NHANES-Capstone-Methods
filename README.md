@@ -4,7 +4,7 @@ This repository contains the preliminary NHANES analysis used to generate Table 
 
 ## Purpose
 
-I am using NHANES 2005–2006 through 2017–2018 to examine dietary factors and depressive symptoms among women ages 20–44.
+I am using NHANES 200-2006 through 2017-2018 to examine dietary factors and depressive symptoms among women ages 20–44.
 
 I prepared this repository for methodological review of my NHANES survey-weighting approach.
 

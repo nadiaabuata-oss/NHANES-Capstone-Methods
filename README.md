@@ -31,7 +31,7 @@ The current unweighted analytic sample is **N = 6,954**, including:
 
 ## Repository contents
 
-- `NHANES_table1_weights_question.R` — R code used to construct the survey design and generate the preliminary survey-weighted Table 1
-- `Data/` — NHANES data files used during preliminary analyses
+- `NHANES_table1_weights_question.R` - R code used to construct the survey design and generate the preliminary survey-weighted Table 1
+- `Data/` - NHANES data files used during preliminary analyses
 
 The NHANES data used in this repository are publicly available from the National Center for Health Statistics.
